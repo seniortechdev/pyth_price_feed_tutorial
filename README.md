@@ -109,7 +109,7 @@ pyth-demo-app/
 
 The demo monitors these price feeds (configurable in `src/types/pyth.ts`):
 
-```typescript
+```
 export const DEMO_PRICE_FEEDS: PriceFeedConfig[] = [
   {
     symbol: 'SOL/USD',
@@ -137,7 +137,7 @@ export const DEFAULT_DEMO_CONFIG: DemoConfig = {
 
 ## 🧪 Testing
 
-```bash
+```
 # Run type checking
 npm run type-check
 
@@ -158,7 +158,7 @@ npm run build
 
 ### Manual Deployment
 
-```bash
+```
 # Build the application
 npm run build
 
