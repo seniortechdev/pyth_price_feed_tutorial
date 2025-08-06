@@ -198,7 +198,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 
 ## 🔗 Related Resources
 
-- **[Complete Tutorial](link-to-tutorial)**: Comprehensive Pyth integration guide
+- **[Complete Tutorial](https://gist.github.com/seniortechdev/4c1383bfa7978b9f8c54774a68d2080b)**: Comprehensive Pyth integration guide
 - **[Pyth Network](https://pyth.network/)**: Official Pyth documentation
 - **[Solana Docs](https://docs.solana.com/)**: Solana development resources
 - **[QuickNode](https://www.quicknode.com/)**: Blockchain infrastructure provider
