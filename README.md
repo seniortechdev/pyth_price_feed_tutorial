@@ -4,7 +4,7 @@ A live demonstration of Pyth price feeds integration on Solana, showcasing moder
 
 ## 🚀 Live Demo
 
-**[View Live Demo](https://pyth-price-feeds-demo.vercel.app)** *(Deploy URL will be updated)*
+**[View Live Demo](https://pyth-price-feed-tutorial.vercel.app/)** 
 
 ## 📖 Tutorial Integration
 
