@@ -58,11 +58,10 @@ This demo application directly implements concepts from our comprehensive **"Usi
 
 ### Installation
 
-```bash
+```
 # Clone the repository
-git clone https://github.com/your-username/pyth-price-feeds-demo.git
-cd pyth-price-feeds-demo
-
+git clone https://github.com/seniortechdev/pyth_price_feed_tutorial
+cd pyth_price_feed_tutorial
 # Install dependencies
 npm install
 
