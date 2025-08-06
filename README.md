@@ -61,8 +61,9 @@ This demo application directly implements concepts from our comprehensive **"Usi
 ```
 # Clone the repository
 git clone https://github.com/seniortechdev/pyth_price_feed_tutorial
+
 cd pyth_price_feed_tutorial
-# Install dependencies
+
 npm install
 
 # Start development server
